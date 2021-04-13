@@ -1,0 +1,14 @@
+---
+layout: null
+title: Lunes 15 de Febrero de 2021
+subtitle:
+image: "img/timeline/1.jpg"
+---
+
+* La Dirección de la Facultad de Ciencias emite un comunicado informando sobre los tipos de problemas en los pagos de la Facultad.
+
+* Se lleva a cabo la 1er Asamblea de Docentes el 15 de Febrero de 2021 (Minuta. Resumen. Reporte).
+
+* Derivado de la Asamblea se forman comisiones, algunas no quedan muy definidas.
+
+* Se abre el grupo y canal en Telegram “Asamblea de académicos FC”, para informar y mantener un contacto con toda la comunidad de docentes.

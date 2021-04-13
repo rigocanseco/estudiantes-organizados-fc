@@ -1,0 +1,14 @@
+url: https://rigomortiz.github.io
+baseurl: /estudiantes-organizados-FC
+
+title: Estudiantes Organizados FC
+# Site Settings
+description: "Estudiantes Organizados de la Facultad de Ciencias."
+keywords: "jekyll, theme"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/no-paga.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]
